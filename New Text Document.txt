@@ -1,0 +1,2 @@
+Dataset from: https://ourworldindata.org/covid-deaths
+date: 01 Jan 2020 - 12 Nov 2021
